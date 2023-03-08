@@ -47,3 +47,7 @@ Firstly to get your Emulator compatible with Burp suite you will need to install
 
 Follow the linked guide to getting started: https://portswigger.net/burp/documentation/desktop/mobile/config-android-device
 
+# Analyzing HTTP Requests
+
+Most Apk's require API calls. We can use BurpSuite to analye these API calls. The use of the API is in the form of HTTP requests and you will be able to see them using Burp.
+
