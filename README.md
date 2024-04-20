@@ -51,3 +51,7 @@ Follow the linked guide to getting started: https://portswigger.net/burp/documen
 
 Most Apk's require API calls. We can use BurpSuite to analye these API calls. The use of the API is in the form of HTTP requests and you will be able to see them using Burp.
 
+# reversing hermes react native
+
+https://github.com/P1sec/hermes-dec - a great decompiler for searching the react native code of a apk. react native is a framework for ios and android apps. Some apps have important functions inside the react native code such as generation of tokens.
+
